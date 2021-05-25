@@ -1,4 +1,4 @@
-# Exercicios_wiki_python.org_in_R
-Exercicios em R, para mostrar algumas das facilidades nativas da linguagem 
-Resolvendo alguns exercícios do site wiki.python.org.br
+# Exercises in R
+Exercises done in R, to show some of the native features of the language
+Solving some exercises on the wiki.python.org.br site
 https://wiki.python.org.br/ListaDeExercicios
